@@ -1,0 +1,537 @@
+==========================
+PRICE ML '
+1|Weekly Diamond Pass|35.000  
+1|Twilight Pass|170.000  
+1|5 Diamond|2.500  
+1|10 Diamond|4.000  
+1|12 Diamond|5.000  
+1|14 Diamond|6.000  
+1|19 Diamond|7.000  
+1|28 Diamond|10.000  
+1|36 Diamond|12.000  
+1|44 Diamond|15.000  
+1|54 Diamond|18.000  
+1|59 Diamond|20.000  
+1|70 Diamond|23.000  
+1|74 Diamond|25.000  
+1|85 Diamond|27.000  
+1|88 Diamond|30.000  
+1|110 Diamond|35.000  
+1|113 Diamond|37.000  
+1|128 Diamond|42.000  
+1|140 Diamond|45.000  
+1|170 Diamond|52.000  
+1|185 Diamond|57.000  
+1|222 Diamond|67.000  
+1|240 Diamond|72.000  
+1|257 Diamond|77.000  
+1|277 Diamond|82.000  
+1|284 Diamond|85.000  
+1|296 Diamond|87.000  
+1|370 Diamond|108.000  
+1|408 Diamond|120.000  
+1|568 Diamond|158.000  
+1|642 Diamond|175.000  
+1|716 Diamond|200.000  
+1|790 Diamond|222.000  
+1|878 Diamond|235.000  
+1|938 Diamond|262.000  
+1|966 Diamond|265.000  
+1|1050 Diamond|288.000  
+1|1136 Diamond|312.000  
+1|1443 Diamond|395.000
+======================
+PRICE FF:
+2|Level Up Pass|25.000  
+2|Weekly Lite Membership|25.000  
+2|Weekly Membership|40.000  
+2|Monthly Membership|100.000  
+2|BP Card|50.000  
+2|5 Diamond|1.500  
+2|12 Diamond|3.000  
+2|50 Diamond|9.000  
+2|70 Diamond|11.000  
+2|100 Diamond|18.000  
+2|140 Diamond|21.000  
+2|210 Diamond|32.000  
+2|280 Diamond|44.000  
+2|355 Diamond|50.000  
+2|720 Diamond|100.000  
+2|1450 Diamond|200.000  
+2|2180 Diamond|300.000  
+2|3640 Diamond|500.000
+======================
+PRICE HONOR OF KING :
+3|Weekly Card|20.000  
+3|Weekly Card Plus|45.000  
+3|8 Token|3.000  
+3|16 Token|6.000  
+3|23 Token|8.000  
+3|80 + 8 Token|18.000  
+3|240 + 17 Token|47.000  
+3|400 + 32 Token|78.000  
+3|560 + 45 Token|107.000  
+3|800 + 95 Token|155.000  
+3|1200 + 153 Token|225.000  
+3|2400 + 324 Token|454.000
+======================
+PRICE GENSHIN IMPACT :
+4|Pilih Server|dropdown:ASIA=ASIA,AMERIKA=AMERIKA,EUROPA=EUROPA,TW_HK_MO=TW_HK_MO
+4|Blessing of the Welkin Moon|80.000
+4|60 GC|20.000
+4|330 GC|70.000
+4|1090 GC|190.000
+4|2240 GC|410.000
+======================
+PRICE LEAGUE OF LEGENDS: PC :  
+5|575 RP|65.000  
+5|1380 RP|145.000  
+5|2800 RP|285.000  
+5|4500 RP|445.000  
+======================
+PRICE PUBG MOBILE :  
+6|Elite Pass|160.000  
+6|Elite Pass Plus|400.000  
+6|Weekly Deal Pack 1|20.000  
+6|Weekly Deal Pack 2|45.000  
+6|30 UC Indo|10.000  
+6|60 UC Indo|19.000  
+6|120 UC Indo|34.000  
+6|325 UC Indo|78.000  
+6|660 UC Indo|152.000  
+======================
+PRICE LEAGUE OF LEGENDS: WILD RIFT :  
+7|425 Wild Cores|60.000  
+7|1000 Wild Cores|130.000  
+7|1850 Wild Cores|230.000  
+7|3275 Wild Cores|410.000  
+======================
+PRICE MAGIC CHESS: GO GO :  
+8|5 Diamond|2.500  
+8|12 Diamond|5.000  
+8|19 Diamond|8.000  
+8|28 Diamond|12.000  
+8|44 Diamond|17.000  
+8|59 Diamond|22.000  
+8|85 Diamond|28.000  
+8|170 Diamond|52.000  
+8|240 Diamond|72.000  
+8|296 Diamond|92.000  
+8|408 Diamond|120.000  
+======================
+PRICE CALL OF DUTY MOBILE :  
+9|31 CP|7.000  
+9|63 CP|12.000  
+9|128 CP|22.000  
+9|321 CP|50.000  
+9|645 CP|97.000  
+9|800 CP|114.000  
+9|1373 CP|190.000  
+======================
+PRICE SUPER SUS :  
+10|Weekly Card|20.000  
+10|Monthly Card|150.000  
+10|Super Pass|85.000  
+10|Super VIP Pass|180.000  
+10|Super Pass Bundle|130.000  
+10|100 Goldstar|16.000  
+10|310 Goldstar|42.000  
+10|520 Goldstar|67.000  
+10|1060 Goldstar|130.000  
+10|2180 Goldstar|265.000  
+======================
+PRICE BLOOD STRIKE :  
+11|Strike Pass Elite|60.000  
+11|Strike Pass Premium|125.000  
+11|Level Up Pass|30.000  
+11|100 Gold|15.000  
+11|300 Gold|38.000  
+11|500 Gold|60.000  
+11|1000 Gold|115.000  
+11|2000 Gold|225.000  
+======================
+
+PRICE FARLIGHT 84 :  
+12|5 Diamond|1.500  
+12|10 Diamond|3.000  
+12|20 Diamond|5.000  
+12|30 Diamond|6.500  
+12|40 Diamond|9.000  
+12|50 Diamond|11.000  
+12|60 Diamond|13.000  
+12|80 Diamond|16.000  
+12|100 Diamond|19.000  
+12|165 Diamond|27.000  
+12|220 Diamond|35.000  
+12|330 Diamond|48.000  
+12|880 Diamond|118.000  
+12|2240 Diamond|300.000  
+======================
+
+PRICE SAUSAGE MAN :  
+13|60 C|20.000  
+13|180 C|50.000  
+13|300 C|90.000  
+13|680 C|160.000  
+13|1280 C|310.000  
+13|1980 C|460.000  
+======================
+
+PRICE FC MOBILE :  
+14|40 FC Point|10.000  
+14|100 FC Point|20.000  
+14|520 FC Point|85.000  
+14|1070 FC Point|165.000  
+14|2200 FC Point|335.000  
+14|39 Silver|10.000  
+14|99 Silver|20.000  
+14|499 Silver|85.000  
+14|999 Silver|165.000  
+14|1999 Silver|335.000  
+======================
+
+PRICE STUMBLE GUYS :  
+15|250 Gems|17.000  
+15|800 Gems|35.000  
+15|120 Token|40.000  
+15|1600 Gems + 75 Token|55.000  
+15|5000 Gems + 275 Token|130.000  
+15|1300 Token|300.000  
+======================
+
+PRICE ARENA OF VALOR :  
+16|40 Voucher|15.000  
+16|90 Voucher|28.000  
+16|230 Voucher|58.000  
+16|470 Voucher|115.000  
+16|950 Voucher|220.000  
+======================
+
+PRICE 8 BALL POOL :  
+17|20.000 Coin|20.000  
+17|52.000 Coin|42.000  
+17|112.000 Coin|77.000  
+17|256.000 Coin|148.000  
+17|800.000 Coin|355.000  
+17|20 Cash|20.000  
+17|50 Cash|42.000  
+17|110 Cash|77.000  
+17|250 Cash|148.000  
+17|800 Cash|355.000  
+======================
+
+PRICE POINT BLANK :  
+18|1200 PB Cash|13.000  
+18|2400 PB Cash|24.000  
+18|6000 PB Cash|55.000  
+18|12000 PB Cash|105.000  
+18|24000 PB Cash|205.000  
+18|36000 PB Cash|305.000  
+======================
+PRICE SPEED DRIFTERS :  
+16|56 Diamond|12.000  
+16|112 Diamond|22.000  
+16|282 Diamond|50.000  
+16|579 Diamond|100.000  
+19|1230 Diamond|195.000  
+======================
+PRICE COLORBANG :  
+20|22 Diamond|5.000  
+20|44 Diamond|10.000  
+20|112 Diamond|21.000  
+20|135 Diamond|26.000  
+20|202 Diamond|37.000  
+20|224 Diamond|42.000  
+20|336 Diamond|60.000  
+20|448 Diamond|77.000  
+20|672 Diamond|112.000  
+20|1120 Diamond|180.000  
+======================
+PRICE GARENA UNDAWN :  
+21|Kartu Mingguan|35.000  
+21|Kartu Bulanan|52.000  
+21|Growth Fund|100.000  
+21|Dana Elit|135.000  
+21|Ace Fund|155.000  
+21|Glory Pass Premium|155.000  
+21|80 RC|16.000  
+21|250 RC|45.000  
+21|450 RC|73.000  
+21|920 RC|140.000  
+21|1850 RC|277.000  
+======================
+PRICE DELTA FORCE - GARENA :  
+22|Silent Sentinel Supplies|20.000  
+22|Silent Sentinel Supplies - Anvanced|48.000  
+22|Black Hawk Down - Genesis|45.000  
+22|Black Hawk Down - Reshape|90.000  
+22|18 Delta Coins|7.000  
+22|30 Delta Coins|10.000  
+22|60 Delta Coins|18.000  
+22|300 Delta Coins|80.000  
+22|420 Delta Coins|105.000  
+22|680 Delta Coins|145.000  
+======================
+PRICE METAL SLUG: AWAKENING :  
+23|Kartu Bulanan|72.000  
+23|Kartu Bulanan Premium|132.000  
+23|Support Pass|72.000  
+23|Premium Support Pass|132.000  
+23|60 Ruby|16.000  
+23|310 Ruby|66.000  
+23|630 Ruby|127.000  
+23|1300 Ruby|247.000  
+======================
+PRICE PULSA INDOSAT
+24|Pulsa 5.000|8.000  
+24|Pulsa 10.000|13.000  
+24|Pulsa 12.000|15.000  
+24|Pulsa 15.000|18.000  
+24|Pulsa 20.000|23.000  
+24|Pulsa 25.000|28.000  
+24|Pulsa 30.000|33.000  
+24|Pulsa 40.000|43.000  
+24|Pulsa 50.000|53.000  
+24|Pulsa 60.000|63.000  
+24|Pulsa 70.000|73.000  
+24|Pulsa 80.000|83.000  
+24|Pulsa 90.000|93.000  
+24|Pulsa 100.000|103.000
+======================
+PRICE TELKOMSEL
+25|Pulsa 5.000|7.000  
+25|Pulsa 10.000|12.000  
+25|Pulsa 15.000|17.000  
+25|Pulsa 20.000|22.000  
+25|Pulsa 25.000|27.000  
+25|Pulsa 30.000|32.000  
+25|Pulsa 35.000|37.000  
+25|Pulsa 40.000|42.000  
+25|Pulsa 50.000|52.000  
+25|Pulsa 60.000|62.000  
+25|Pulsa 65.000|67.000  
+25|Pulsa 70.000|72.000  
+25|Pulsa 75.000|77.000  
+25|Pulsa 100.000|102.000
+======================
+PRICE AXIS
+26|Pulsa 5.000|7.000  
+26|Pulsa 10.000|12.000  
+26|Pulsa 15.000|17.000  
+26|Pulsa 20.000|22.000  
+26|Pulsa 25.000|27.000  
+26|Pulsa 30.000|32.000  
+26|Pulsa 50.000|52.000  
+26|Pulsa 100.000|102.000
+======================
+PRICE XL
+27|Pulsa 5.000|7.000  
+27|Pulsa 10.000|12.000  
+27|Pulsa 15.000|17.000  
+27|Pulsa 25.000|27.000  
+27|Pulsa 30.000|32.000  
+27|Pulsa 50.000|52.000  
+27|Pulsa 100.000|102.000
+======================
+PRICE SMARTFREN
+28|Pulsa 5.000|7.000  
+28|Pulsa 10.000|12.000  
+28|Pulsa 20.000|22.000  
+28|Pulsa 25.000|27.000  
+28|Pulsa 30.000|32.000  
+28|Pulsa 50.000|52.000  
+28|Pulsa 55.000|57.000  
+28|Pulsa 60.000|62.000  
+28|Pulsa 75.000|77.000  
+28|Pulsa 100.000|102.000
+======================
+PRICE THREE
+29|Pulsa 5.000|8.000  
+29|Pulsa 10.000|13.000  
+29|Pulsa 15.000|18.000  
+29|Pulsa 20.000|23.000  
+29|Pulsa 25.000|28.000  
+29|Pulsa 30.000|33.000  
+29|Pulsa 40.000|43.000  
+29|Pulsa 50.000|53.000  
+29|Pulsa 75.000|78.000  
+29|Pulsa 100.000|103.000
+======================
+PRICE BY.U
+30|Pulsa 5.000|7.000  
+30|Pulsa 10.000|12.000  
+30|Pulsa 15.000|17.000  
+30|Pulsa 20.000|22.000  
+30|Pulsa 25.000|27.000  
+30|Pulsa 30.000|32.000  
+30|Pulsa 35.000|37.000  
+30|Pulsa 40.000|42.000  
+30|Pulsa 50.000|52.000  
+30|Pulsa 60.000|62.000  
+30|Pulsa 65.000|67.000  
+30|Pulsa 70.000|72.000  
+30|Pulsa 75.000|77.000  
+30|Pulsa 100.000|102.000
+======================
+PRICE TOKEN PLN
+31|Token PLN 20.000|23.000  
+31|Token PLN 50.000|54.000  
+31|Token PLN 100.000|104.000  
+31|Token PLN 200.000|204.000
+======================
+PRICE DANA :
+32|Dana 5.000|8.000  
+32|Dana 10.000|13.000  
+32|Dana 15.000|18.000  
+32|Dana 20.000|23.000  
+32|Dana 25.000|29.000  
+32|Dana 50.000|55.000  
+32|Dana 75.000|80.000  
+32|Dana 100.000|107.000
+======================
+PRICE GOPAY
+33|Gopay 5.000|8.000  
+33|Gopay 10.000|13.000  
+33|Gopay 15.000|18.000  
+33|Gopay 20.000|23.000  
+33|Gopay 25.000|29.000  
+33|Gopay 30.000|34.000  
+33|Gopay 40.000|45.000  
+33|Gopay 50.000|55.000  
+33|Gopay 70.000|75.000  
+33|Gopay 75.000|80.000  
+33|Gopay 90.000|96.000  
+33|Gopay 100.000|107.000;33|Gopay 5.000|8.000  
+33|Gopay 10.000|13.000  
+33|Gopay 15.000|18.000  
+33|Gopay 20.000|23.000  
+33|Gopay 25.000|29.000  
+33|Gopay 30.000|34.000  
+33|Gopay 40.000|45.000  
+33|Gopay 50.000|55.000  
+33|Gopay 70.000|75.000  
+33|Gopay 75.000|80.000  
+33|Gopay 90.000|96.000  
+33|Gopay 100.000|107.000
+======================
+PRICE SHOPEEPAY
+34|ShopeePay 5.000|8.000  
+34|ShopeePay 10.000|13.000  
+34|ShopeePay 15.000|18.000  
+34|ShopeePay 20.000|24.000  
+34|ShopeePay 25.000|29.000  
+34|ShopeePay 30.000|34.000  
+34|ShopeePay 50.000|55.000  
+34|ShopeePay 60.000|65.000  
+34|ShopeePay 75.000|80.000  
+34|ShopeePay 80.000|86.000  
+34|ShopeePay 90.000|97.000  
+34|ShopeePay 100.000|107.000
+======================
+PRICE OVO
+35|OVO 10.000|13.000  
+35|OVO 15.000|18.000  
+35|OVO 20.000|24.000  
+35|OVO 25.000|29.000  
+35|OVO 30.000|34.000  
+35|OVO 40.000|45.000  
+35|OVO 50.000|55.000  
+35|OVO 60.000|65.000  
+35|OVO 70.000|75.000  
+35|OVO 75.000|80.000  
+35|OVO 90.000|97.000  
+35|OVO 100.000|107.000
+======================
+PRICE LINK AJA
+36|LinkAja 10.000|13.000  
+36|LinkAja 15.000|18.000  
+36|LinkAja 20.000|23.000  
+36|LinkAja 25.000|29.000  
+36|LinkAja 30.000|35.000  
+36|LinkAja 40.000|45.000  
+36|LinkAja 50.000|55.000  
+36|LinkAja 75.000|80.000  
+36|LinkAja 100.000|107.000
+======================
+PRICE MAXIM DRIVER
+37|Maxim Driver 5.000|9.000  
+37|Maxim Driver 10.000|15.000  
+37|Maxim Driver 20.000|25.000  
+37|Maxim Driver 50.000|57.000  
+37|Maxim Driver 70.000|79.000  
+37|Maxim Driver 100.000|110.000
+======================
+38|Google Play 5.000 IDR|7000  
+38|Google Play 10.000 IDR|13000  
+38|Google Play 16.000 IDR|20000  
+38|Google Play 20.000 IDR|25000  
+38|Google Play 35.000 IDR|41000  
+38|Google Play 50.000 IDR|57000  
+38|Google Play 65.000 IDR|73000  
+38|Google Play 79.000 IDR|88000  
+38|Google Play 100.000 IDR|110000
+
+39|Garena 33 Shell|12000  
+39|Garena 66 Shell|22000  
+39|Garena 165 Shell|52000  
+39|Garena 330 Shell|102000
+
+40|Razer Gold 10.000|13000  
+40|Razer Gold 20.000|25000  
+40|Razer Gold 50.000|57000  
+40|Razer Gold 100.000|110000
+
+41|Steam Wallet 8.000 IDR|10000  
+41|Steam Wallet 12.000 IDR|15000  
+41|Steam Wallet 45.000 IDR|50000  
+41|Steam Wallet 60.000 IDR|66000  
+41|Steam Wallet 90.000 IDR|97000  
+41|Steam Wallet 120.000 IDR|130000
+
+42|Megaxus 10.000 Mi-Cash|14000  
+42|Megaxus 20.000 Mi-Cash|27000  
+42|Megaxus 50.000 Mi-Cash|60000  
+42|Megaxus 100.000 Mi-Cash|118000  
+42|Megaxus 210.000 Mi-Cash|230000
+
+43|Point Blank 1.200 PB Cash|13000  
+43|Point Blank 2.400 PB Cash|24000  
+43|Point Blank 6.000 PB Cash|55000  
+43|Point Blank 12.000 PB Cash|105000
+
+44|Unipin 5.000|7000  
+44|Unipin 10.000|12000  
+44|Unipin 20.000|22000  
+44|Unipin 50.000|52000  
+44|Unipin 100.000|102000
+
+45|Roblox 10 USD|165000  
+45|Roblox 15 USD|265000  
+45|Roblox 20 USD|350000  
+45|Roblox 25 USD|406000
+
+46|BStation Premium 7 Hari|14000  
+46|BStation Premium 14 Hari|18000  
+46|BStation Single Month|30000  
+46|BStation Premium 366 Hari|216000  
+46|BStation Single Year|230000
+
+47|Bigo 25 Diamond|10000  
+47|Bigo 50 Diamond|19000  
+47|Bigo 100 Diamond|37000  
+47|Bigo 150 Diamond|44000  
+47|Bigo 200 Diamond|70000  
+47|Bigo 250 Diamond|86000  
+47|Bigo 300 Diamond|104000  
+47|Bigo 500 Diamond|168000
+
+48|Codacash 5.000 IDR|7000  
+48|Codacash 10.000 IDR|13000  
+48|Codacash 20.000 IDR|23000  
+48|Codacash 50.000 IDR|54000  
+48|Codacash 100.000 IDR|104000  
+48|Codacash 150.000 IDR|155000  
+48|Codacash 200.000 IDR|205000
+
+49|Spotify Langganan 1 Bulan|60000  
+49|Spotify Langganan 3 Bulan|175000
