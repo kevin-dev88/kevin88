@@ -1,0 +1,58 @@
+#TRENDING GAME
+1|Mobile Legends|ml.jpg|ID,ID SERVER  
+2|Free Fire|ff.jpeg|ID  
+3|Honor of Kings|HOK.jpg|ID
+11|Blood Strike|blood.jpeg|ID  
+#SEMUA GAME
+1|Mobile Legends|ml.jpg|ID,ID SERVER  
+2|Free Fire|ff.jpeg|ID  
+3|Honor of Kings|HOK.jpg|ID  
+4|Genshin Impact|gpi.jpeg|ID
+5|League of Legends: PC|lol biasa.jpg|Riot ID  
+6|PUBG Mobile|pubg.jpg|ID  
+7|League of Legends: Wild Rift|lol.jpeg|ID 
+8|Magic Chess: Go Go|gogo.jpeg|ID, ID SERVER  
+9|Call of Duty Mobile|codm.jpg|Open ID  
+10|Super SUS|supersus.jpeg|ID  
+11|Blood Strike|blood.jpeg|ID  
+12|Farlight 84|farlight.jpg|ID  
+13|Sausage Man|sausage.jpeg|User ID  
+14|FC Mobile|fcmbl.jpg|ID  
+15|Stumble Guys|stumble.jpg|Username  
+16|Arena Of Valor|aov.jpg|User ID  
+17|8 Ball Pool|ball pool.jpeg|ID  
+18|Point Blank|pb.jpg|ID  
+19|Speed Drifters|sd.png|ID  
+20|ColorBANG|colorBG.jpeg|ID  
+21|Garena Undawn|gu.jpg|ID  
+22|Delta Force - Garena|df.png|ID  
+23|Metal Slug: Awakening|ms.jpg|ID
+#PULSA ALL OPERATOR
+24|INDOSAT|sat.jpg|No HP
+25|TELKOMSEL|telkomsel.png|No HP
+26|AXIS|axis.jpg|No HP
+27|XL Axiata|xl.jpg|No HP
+28|SMARTFREN|smart.jpg|No HP
+29|THREE|tri.jpg|No HP
+30|BY.U|byu.png|No HP
+31|TOKEN PLN|pln.jpg|No Meteran
+#E-WALLET
+32|DANA|dana.jpeg|No HP  
+33|GOPAY|gopay.png|No HP  
+34|SHOPEEPAY|spay.png|No HP  
+35|OVO|ovo.jpeg|No HP  
+36|LINK AJA|linkaja.png|No HP  
+37|MAXIM DRIVER|maxim.png|No HP
+#ALL VOUCHER
+38|Google Play|1.jpg|No WhatsApp  
+39|Garena Shell|2.jpg|No WhatsApp  
+40|Razer Gold|3.jpg|No WhatsApp  
+41|Steam Wallet|4.png|No WhatsApp  
+42|Megaxus|5.jpg|No WhatsApp  
+43|Point 6|pb.jpg|No WhatsApp  
+44|Unipin|7.jpg|No WhatsApp  
+45|Roblox|8.jpg|No WhatsApp  
+46|BStation|9.jpg|No WhatsApp  
+47|Bigo Live|10.jpg|No WhatsApp  
+48|Codashop|11.jpg|No WhatsApp  
+49|Spotify Premium|12.jpg|No WhatsApp
